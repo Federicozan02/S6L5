@@ -21,3 +21,4 @@ def creaGrafico(nome):
     
 creaGrafico('age')
 creaGrafico('charges')
+creaGrafico('bmi')
